@@ -1,2 +1,2 @@
 # COA 
-Computer of Arcitechture
+Computer of architecture
